@@ -1,4 +1,4 @@
 # Hash-Code-2021
  Hash Code 2021, the code I wrote is in here plus the input files
 
-Written with python 3.8
+Written with Python 3.8
